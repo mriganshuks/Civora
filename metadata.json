@@ -1,0 +1,6 @@
+{
+  "name": "CIVORA",
+  "description": "Closed-Loop Civic Works & Public Accountability Platform",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
